@@ -1,0 +1,11 @@
+:root {
+    --default: #7289da;
+    --default-light: #879add;
+    --grey: #2c2f33;
+    --grey-dark: #23272a;
+}
+
+body {
+    background-color: var(--default-light);
+    color: var(--grey)
+}
